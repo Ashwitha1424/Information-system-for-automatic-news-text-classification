@@ -1,0 +1,4 @@
+install python 3.7.0 and then install all packages from requirements.bat file and then doouble click
+on 'download_nltk.bat' then window will appear and then click on 'Download' button to donwload all packages
+and once dowwnloaed then window will turn to green colour and then closed window and run project by
+following screenshots
